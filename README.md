@@ -8,7 +8,7 @@ https://github.com/pansershrek/ML_super_project
 sudo apt-get install git
 ```
 
-## Настройка git
+## Настройка git, где неободимо заменить "you@example.com" и "Your Name" на свои соответственно
 ```
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
